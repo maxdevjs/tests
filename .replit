@@ -1,2 +1,2 @@
-language = "html5"
-run = "echo helllo"
+language = "bash"
+run = "echo helllo repl.it"
